@@ -1,0 +1,5 @@
+#Directorios de dependencias
+
+node_modules/
+# Enviroment variables file
+.env
